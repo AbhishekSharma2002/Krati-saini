@@ -16,6 +16,7 @@ export default function Click() {
                         <a className='text-xl font-semibold hover:text-blue-500 hover:underline' href='https://www.instagram.com/kratisaini_/'>@To Visit instagram account click here!</a>
                         <a href='https://www.instagram.com/kratisaini_/'><img className='rounded-xl mt-5 ml-4 shadow-xl shadow-gray-400' alt='' src={profile}></img></a>
                     </div>
+                    <p></p>
                 </div>
             </div>
         </>
